@@ -5,7 +5,8 @@ Proyecto "smartschool" para la materia de administración de proyectos tecnológ
 Smartschool es la creación de toda la administración del proyecto hasta el prototipo de un bot para la solución de dudas escolares que surgen durante todo el semestre, principalmente a inicios y a finales de este.
 
 ## Objetivo
-El oobjetivo es aprender a administrar y desarollar un proyecto con el fin de posteriormente implementar estos conocimientos en el desarrollo de proyectos académicos o profesionales.
+El objetivo es aprender a administrar y desarollar un proyecto con el fin de posteriormente implementar estos conocimientos en el desarrollo de proyectos académicos o profesionales.
+Se aprendió el uso y manejo de Monday, habilidades de planeación y el como vender un proyecto, lo que incluye presentaciones y hablar en público
 
 ## Actividades
 * [Estudio de mercado:](https://github.com/rositaa-as/Smartschool/blob/Introducci%C3%B3n/Estudio%20de%20Mercado%20Inicial_ASRMG_.pptx) Analizar la posible competencia y que características tienen para compararlas.   [estudio de mercado final](https://github.com/rositaa-as/Smartschool/blob/Introducci%C3%B3n/Estudio%20de%20Mercado_.pptx)
@@ -27,5 +28,5 @@ El oobjetivo es aprender a administrar y desarollar un proyecto con el fin de po
 * [Gastos de amortización](https://github.com/rositaa-as/Smartschool/blob/Proyecto/Smartschool-%20gastos%20y%20tabla%20de%20amortizaci%C3%B3n.pptx)
 * [Prototipo](https://github.com/rositaa-as/Smartschool/blob/Proyecto/prototipo.pdf)
 
-### [Puedes observar el Demo del prototipo aquí](https://rosaavila4197.wixsite.com/smartschool)
+# Puedes observar el Demo del prototipo [aquí](https://rosaavila4197.wixsite.com/smartschool)
 
